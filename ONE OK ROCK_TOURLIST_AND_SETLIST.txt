@@ -1,0 +1,2 @@
+Setlist: ['Renegades', 'Broken Heart of Gold', 'Save Yourself - Japanese Version'] 
+Tourlist: ['Japan', 'Indonesia', 'Taiwan']
