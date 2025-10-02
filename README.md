@@ -2,6 +2,7 @@
 A program (Python) that predicts a music artist's setlist based on song popularity and the tour locations based on region popularity from past limited Spotify Data. 
 
 DETAILS: 
+
 The program will take a Spotify data file and determine tour locations (amount based on user input of how many stops they want) and a setlist (length based on user input on how many songs they want). The program will determine the tour locations by selecting n-amount of locations with the highest music streams. Similarly, the program will select n-amount of songs based on the highest amount of streams. The output would be a file containing the location list and the setlist. 
  
 INSTRUCTIONS:
